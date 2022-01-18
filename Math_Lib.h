@@ -1,7 +1,7 @@
 #pragma once
 #include "common.h"
 
-//random
+//random in work
 float random(int ran1, int ran2, int cyc){
     float arr[] = {
         16.0, 50.0, 100.0, 30.0, 56.0, 34.0, 20.0,
